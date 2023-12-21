@@ -1,0 +1,15 @@
+focues on finite timeeeeeeeeeee performance.
+min f(x,w) where w are the factors of the prob
+we don't have solveeeeeeeesrs for probs with stochastic constraints yet
+don't suport random budget solvers yet like r+s
+budget is important but don't know how to pick best budget for your prob yet
+bootstrap - for time t, pick a random solution whicccch was favoured at thtat time. then for that sol, pick random macrorep - repeat to get spread
+if we don't have an x-star, then we use the best we've got from any solver.
+macro-replication- a single macrorep involve the solver using its budget to find its optimal solution.
+You can change the source code to use this for your own model/experiment
+
+In summary, SimOpt library offers the capability to test how a solver performs on a range of problems and models.
+So, in future, on generation of a new model / solver, it could be tested alongside these.
+
+Data Framing - change factors that are not the decisions
+If - say - constructing a meta-model - can see what happens to the model outputs if we change the meta-model parameters. 

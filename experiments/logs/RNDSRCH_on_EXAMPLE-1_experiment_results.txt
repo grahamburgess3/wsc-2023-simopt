@@ -1,0 +1,105 @@
+./experiments/outputs/RNDSRCH_on_EXAMPLE-1.pickle
+Problem: EXAMPLE-1
+Solver: RNDSRCH
+
+Model Factors:
+
+Problem Factors:
+	initial_solution: (2.0, 2.0)
+	budget: 200
+
+Solver Factors:
+	crn_across_solns: False
+	sample_size: 10
+
+10 macroreplications were run.
+200 postreplications were run at each recommended solution.
+
+The initial solution is (2.0, 2.0). Its estimated objective is 8.9051.
+No proxy optimal solution was used. A proxy optimal objective function value of 0 was provided.
+200 postreplications were taken at x0 and x_star.
+
+Macroreplication Results:
+
+Macroreplication 1:
+	Budget: 0	Recommended Solution: (2.0, 2.0)	Estimated Objective: 7.8454
+	Budget: 20	Recommended Solution: (0.2752, 0.8744)	Estimated Objective: 0.6857
+	Budget: 130	Recommended Solution: (1.3406, 1.0367)	Estimated Objective: 2.7174
+	Budget: 200	Recommended Solution: (1.3406, 1.0367)	Estimated Objective: 2.7174
+	The time taken to complete this macroreplication was 0.01 s.
+
+Macroreplication 2:
+	Budget: 0	Recommended Solution: (2.0, 2.0)	Estimated Objective: 8.8159
+	Budget: 20	Recommended Solution: (0.5371, -1.759)	Estimated Objective: 4.1984
+	Budget: 60	Recommended Solution: (1.8666, 0.8314)	Estimated Objective: 4.9913
+	Budget: 110	Recommended Solution: (-0.754, -0.6817)	Estimated Objective: 1.8491
+	Budget: 200	Recommended Solution: (-0.754, -0.6817)	Estimated Objective: 1.8491
+	The time taken to complete this macroreplication was 0.01 s.
+
+Macroreplication 3:
+	Budget: 0	Recommended Solution: (2.0, 2.0)	Estimated Objective: 7.2533
+	Budget: 20	Recommended Solution: (1.8735, 1.5403)	Estimated Objective: 5.1357
+	Budget: 30	Recommended Solution: (1.4492, -1.3545)	Estimated Objective: 3.1882
+	Budget: 40	Recommended Solution: (-0.8265, -0.0888)	Estimated Objective: -0.0557
+	Budget: 200	Recommended Solution: (-0.8265, -0.0888)	Estimated Objective: -0.0557
+	The time taken to complete this macroreplication was 0.02 s.
+
+Macroreplication 4:
+	Budget: 0	Recommended Solution: (2.0, 2.0)	Estimated Objective: 8.731
+	Budget: 20	Recommended Solution: (-0.7302, 1.1566)	Estimated Objective: 2.602
+	Budget: 30	Recommended Solution: (0.687, 1.4603)	Estimated Objective: 3.3355
+	Budget: 70	Recommended Solution: (0.6124, 1.0984)	Estimated Objective: 2.3126
+	Budget: 90	Recommended Solution: (-1.1962, 0.1735)	Estimated Objective: 2.1919
+	Budget: 200	Recommended Solution: (-1.1962, 0.1735)	Estimated Objective: 2.1919
+	The time taken to complete this macroreplication was 0.01 s.
+
+Macroreplication 5:
+	Budget: 0	Recommended Solution: (2.0, 2.0)	Estimated Objective: 6.8012
+	Budget: 20	Recommended Solution: (-1.2657, 0.6223)	Estimated Objective: 0.7904
+	Budget: 30	Recommended Solution: (1.8043, -0.7275)	Estimated Objective: 2.5859
+	Budget: 40	Recommended Solution: (-1.0796, -0.1138)	Estimated Objective: -0.0202
+	Budget: 200	Recommended Solution: (-1.0796, -0.1138)	Estimated Objective: -0.0202
+	The time taken to complete this macroreplication was 0.01 s.
+
+Macroreplication 6:
+	Budget: 0	Recommended Solution: (2.0, 2.0)	Estimated Objective: 8.2579
+	Budget: 20	Recommended Solution: (1.0206, -1.2227)	Estimated Objective: 2.7945
+	Budget: 200	Recommended Solution: (1.0206, -1.2227)	Estimated Objective: 2.7945
+	The time taken to complete this macroreplication was 0.01 s.
+
+Macroreplication 7:
+	Budget: 0	Recommended Solution: (2.0, 2.0)	Estimated Objective: 8.1508
+	Budget: 30	Recommended Solution: (0.2457, 1.6173)	Estimated Objective: 2.8269
+	Budget: 40	Recommended Solution: (0.391, -0.1804)	Estimated Objective: 0.3362
+	Budget: 60	Recommended Solution: (-1.0617, -1.2695)	Estimated Objective: 2.8897
+	Budget: 200	Recommended Solution: (-1.0617, -1.2695)	Estimated Objective: 2.8897
+	The time taken to complete this macroreplication was 0.01 s.
+
+Macroreplication 8:
+	Budget: 0	Recommended Solution: (2.0, 2.0)	Estimated Objective: 7.9485
+	Budget: 20	Recommended Solution: (-0.4472, -1.2902)	Estimated Objective: 1.8132
+	Budget: 30	Recommended Solution: (0.0261, 0.8502)	Estimated Objective: 0.672
+	Budget: 50	Recommended Solution: (-0.6374, -1.0339)	Estimated Objective: 1.4237
+	Budget: 100	Recommended Solution: (0.6908, -0.1362)	Estimated Objective: 0.4442
+	Budget: 110	Recommended Solution: (-1.5474, -0.2677)	Estimated Objective: 2.4147
+	Budget: 200	Recommended Solution: (-1.5474, -0.2677)	Estimated Objective: 2.4147
+	The time taken to complete this macroreplication was 0.01 s.
+
+Macroreplication 9:
+	Budget: 0	Recommended Solution: (2.0, 2.0)	Estimated Objective: 7.109
+	Budget: 20	Recommended Solution: (0.195, 0.8503)	Estimated Objective: -0.13
+	Budget: 30	Recommended Solution: (-1.4987, 0.1391)	Estimated Objective: 1.3745
+	Budget: 40	Recommended Solution: (-1.5309, 0.1754)	Estimated Objective: 1.4835
+	Budget: 50	Recommended Solution: (-0.9043, -1.0657)	Estimated Objective: 1.0623
+	Budget: 60	Recommended Solution: (-0.7846, 0.5594)	Estimated Objective: 0.0376
+	Budget: 190	Recommended Solution: (0.3166, -0.9093)	Estimated Objective: 0.0362
+	Budget: 200	Recommended Solution: (0.3166, -0.9093)	Estimated Objective: 0.0362
+	The time taken to complete this macroreplication was 0.01 s.
+
+Macroreplication 10:
+	Budget: 0	Recommended Solution: (2.0, 2.0)	Estimated Objective: 7.4342
+	Budget: 20	Recommended Solution: (1.8254, -1.8269)	Estimated Objective: 6.104
+	Budget: 40	Recommended Solution: (-1.9161, -0.3749)	Estimated Objective: 3.2461
+	Budget: 70	Recommended Solution: (0.3669, 0.5378)	Estimated Objective: -0.1419
+	Budget: 200	Recommended Solution: (0.3669, 0.5378)	Estimated Objective: -0.1419
+	The time taken to complete this macroreplication was 0.01 s.

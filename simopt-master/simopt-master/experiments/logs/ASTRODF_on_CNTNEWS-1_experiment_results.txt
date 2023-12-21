@@ -1,0 +1,94 @@
+./experiments/outputs/ASTRODF_on_CNTNEWS-1.pickle
+Problem: CNTNEWS-1
+Solver: ASTRODF
+
+Model Factors:
+	purchase_price: 5.0
+	sales_price: 9.0
+	salvage_price: 1.0
+	Burr_c: 2.0
+	Burr_k: 20.0
+
+Problem Factors:
+	initial_solution: (0,)
+	budget: 1000
+
+Solver Factors:
+	crn_across_solns: True
+	eta_1: 0.1
+	eta_2: 0.8
+	gamma_1: 1.5
+	gamma_2: 0.5
+	lambda_min: 4
+	easy_solve: True
+	reuse_points: True
+	ps_sufficient_reduction: 0.1
+
+10 macroreplications were run.
+200 postreplications were run at each recommended solution.
+
+The initial solution is (0,). Its estimated objective is 0.0.
+The proxy optimal solution is (0.1815,). Its estimated objective is 0.5087.
+200 postreplications were taken at x0 and x_star.
+
+Macroreplication Results:
+
+Macroreplication 1:
+	Budget: 4	Recommended Solution: (0,)	Estimated Objective: 0.0
+	Budget: 40	Recommended Solution: (0.1839,)	Estimated Objective: 0.448
+	Budget: 1000	Recommended Solution: (0.1839,)	Estimated Objective: 0.448
+	The time taken to complete this macroreplication was 0.26 s.
+
+Macroreplication 2:
+	Budget: 4	Recommended Solution: (0,)	Estimated Objective: 0.0
+	Budget: 32	Recommended Solution: (0.3277,)	Estimated Objective: 0.2768
+	Budget: 1000	Recommended Solution: (0.3277,)	Estimated Objective: 0.2768
+	The time taken to complete this macroreplication was 0.23 s.
+
+Macroreplication 3:
+	Budget: 4	Recommended Solution: (0,)	Estimated Objective: 0.0
+	Budget: 16	Recommended Solution: (0.2187,)	Estimated Objective: 0.4232
+	Budget: 1000	Recommended Solution: (0.2187,)	Estimated Objective: 0.4232
+	The time taken to complete this macroreplication was 0.22 s.
+
+Macroreplication 4:
+	Budget: 4	Recommended Solution: (0,)	Estimated Objective: 0.0
+	Budget: 40	Recommended Solution: (0.1815,)	Estimated Objective: 0.4978
+	Budget: 1000	Recommended Solution: (0.1815,)	Estimated Objective: 0.4978
+	The time taken to complete this macroreplication was 0.22 s.
+
+Macroreplication 5:
+	Budget: 4	Recommended Solution: (0,)	Estimated Objective: 0.0
+	Budget: 16	Recommended Solution: (0.2296,)	Estimated Objective: 0.3676
+	Budget: 1000	Recommended Solution: (0.2296,)	Estimated Objective: 0.3676
+	The time taken to complete this macroreplication was 0.22 s.
+
+Macroreplication 6:
+	Budget: 4	Recommended Solution: (0,)	Estimated Objective: 0.0
+	Budget: 40	Recommended Solution: (0.2146,)	Estimated Objective: 0.4806
+	Budget: 1000	Recommended Solution: (0.2146,)	Estimated Objective: 0.4806
+	The time taken to complete this macroreplication was 0.22 s.
+
+Macroreplication 7:
+	Budget: 4	Recommended Solution: (0,)	Estimated Objective: 0.0
+	Budget: 16	Recommended Solution: (0.1604,)	Estimated Objective: 0.4657
+	Budget: 1000	Recommended Solution: (0.1604,)	Estimated Objective: 0.4657
+	The time taken to complete this macroreplication was 0.22 s.
+
+Macroreplication 8:
+	Budget: 4	Recommended Solution: (0,)	Estimated Objective: 0.0
+	Budget: 32	Recommended Solution: (0.2628,)	Estimated Objective: 0.361
+	Budget: 1000	Recommended Solution: (0.2628,)	Estimated Objective: 0.361
+	The time taken to complete this macroreplication was 0.23 s.
+
+Macroreplication 9:
+	Budget: 4	Recommended Solution: (0,)	Estimated Objective: 0.0
+	Budget: 16	Recommended Solution: (0.1353,)	Estimated Objective: 0.4085
+	Budget: 1000	Recommended Solution: (0.1353,)	Estimated Objective: 0.4085
+	The time taken to complete this macroreplication was 0.22 s.
+
+Macroreplication 10:
+	Budget: 4	Recommended Solution: (0,)	Estimated Objective: 0.0
+	Budget: 16	Recommended Solution: (0.2063,)	Estimated Objective: 0.424
+	Budget: 1000	Recommended Solution: (0.2063,)	Estimated Objective: 0.424
+	The time taken to complete this macroreplication was 0.22 s.
